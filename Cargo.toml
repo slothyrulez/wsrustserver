@@ -1,0 +1,6 @@
+[package]
+name = "wsrustserver"
+version = "0.1.0"
+authors = ["slothy <slothyrulez@gmail.com>"]
+
+[dependencies]
